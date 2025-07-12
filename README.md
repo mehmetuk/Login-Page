@@ -1,39 +1,26 @@
-# 📝 React Todo Uygulaması
+# Login Sayfası
 
-Bu proje, React kullanılarak geliştirilmiş basit bir yapılacaklar listesi uygulamasıdır. Kullanıcılar görev ekleyebilir, silebilir ve tamamlandı olarak işaretleyebilir.
+Bu proje, sadece HTML ve CSS kullanarak oluşturulmuş basit bir login (giriş) sayfasıdır. Kullanıcı adı ve şifre giriş alanları içermektedir. Tasarım sade ve modern bir görünüme sahiptir.
 
 ## 🚀 Özellikler
 
-- ✅ Yeni görev ekleme
-- ❌ Görev silme
-- ✔️ Görev düzenleme
-- 🎨 Temiz ve responsive arayüz
+- Kullanıcı adı ve şifre için input alanları  
+- Buton ile gönderim hissi  
+- Responsive (mobil ve masaüstü uyumlu) tasarım  
+- Basit ve temiz arayüz
 
 - ## 🔧 Kullanılan Teknolojiler
 
-- React
-- JavaScript (ES6+)
-- CSS
-
-## 🖼️ Ekran Görüntüleri
-<img width="1920" height="922" alt="todoo" src="https://github.com/user-attachments/assets/2ca5edc5-ca47-44c2-82c1-503722760cb2" />
+- HTML5  
+- CSS3  
 
 ## 📦 Kurulum
 
-Bu projeyi kendi bilgisayarınızda çalıştırmak için:
+Projeyi çalıştırmak için aşağıdaki adımları takip edin:
 
-```bash
-# Projeyi klonla
-git clone https://github.com/KULLANICIADI/todo-app.git
-
-# Proje klasörüne gir
-cd todo-app
-
-# Paketleri yükle
-npm install
-
-# Uygulamayı başlat
-npm start
-Tarayıcıda http://localhost:3000 adresinde açılır.
+1. GitHub'dan projeyi klonlayın veya ZIP olarak indirin.
+2. Proje klasöründeki `index.html` dosyasını herhangi bir web tarayıcısında açın.
 
 
+## 🖼️ Ekran Görüntüsü
+<img width="1920" height="917" alt="log" src="https://github.com/user-attachments/assets/3fe113a3-a900-4fc2-b414-0cc0bd3fd6a1" />
